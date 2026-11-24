@@ -58,7 +58,7 @@ Antes de ejecutar el proyecto en un entorno local, asegúrate de contar con las 
 
 1. **Clonar el repositorio desde GitHub:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/ClinicaApi.git](https://github.com/TU_USUARIO/ClinicaApi.git)
+   git clone [[https://github.com/TU_USUARIO/ClinicaApi.git](https://github.com/TU_USUARIO/ClinicaApi.git](https://github.com/MatthewA04/ClinicaApi.git))
    ```
 
 2. **Navegar hacia la carpeta del proyecto donde se encuentra el archivo `.csproj`:**
